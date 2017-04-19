@@ -5,7 +5,7 @@ public class PontoDeInteresse {
 	public String nomeCidade;
 	public String nome;
 	public String descricao;
-	public long latitude;
-	public long longitude;
+	public float latitude;
+	public float longitude;
 
 }
